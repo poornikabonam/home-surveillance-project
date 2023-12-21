@@ -5,7 +5,7 @@ The proposed solution entails connecting a Raspberry Pi with a Pi camera and est
 
 ## Table of contents
 * [Technological Overview](link)
-   * [Python](link)
+   * [Python](https://github.com/poornikabonam/home-surveillance-project/blob/main/README.md#python)
    * [Image Processing](link)
 ## Technological Overview
 ### Python
