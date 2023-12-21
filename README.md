@@ -7,8 +7,8 @@ The proposed solution entails connecting a Raspberry Pi with a Pi camera and est
 * [Technological Overview](link)
    * [Python](https://github.com/poornikabonam/home-surveillance-project/blob/main/README.md#python)
    * [Image Processing](https://github.com/poornikabonam/home-surveillance-project/blob/main/README.md#image-processing)
-   * [Computer Vision](https://github.com/poornikabonam/home-surveillance-project#computer-vision)
-   * [OpenCV](https://github.com/poornikabonam/home-surveillance-project#opencv)
+   * [Computer Vision](https://github.com/poornikabonam/home-surveillance-project/blob/main/README.md#computer-vision)
+   * [OpenCV](https://github.com/poornikabonam/home-surveillance-project/blob/main/README.md#opencv)
 ## Technological Overview
 ### Python
 
