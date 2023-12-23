@@ -1,4 +1,4 @@
-# home-surveillance-project
+# Home-surveillance-project
 This project focuses on Home Surveillance and motion detection using Raspberry Pi and Python to capture images and securely transmit them to Dropbox. Motion detection, involving the identification of changes in an object's position relative to its surroundings, is a key aspect of this initiative. The primary objective is to vigilantly monitor a residence, promptly notifying the homeowner of any unusual activity and storing a backup copy in their Dropbox account.
 
 The proposed solution entails connecting a Raspberry Pi with a Pi camera and establishing an internet connection. Once configured, the entire system is capable of performing comprehensive surveillance tasks. The overarching goal of this project is to safeguard privacy and assets by implementing an intelligent surveillance monitoring system. This system captures images of potential intruders, subsequently notifying the homeowners through their Dropbox accounts upon motion detection triggers.
@@ -9,6 +9,7 @@ The proposed solution entails connecting a Raspberry Pi with a Pi camera and est
    * [Image Processing](https://github.com/poornikabonam/home-surveillance-project/blob/main/README.md#image-processing)
    * [Computer Vision](https://github.com/poornikabonam/home-surveillance-project/blob/main/README.md#computer-vision)
    * [OpenCV](https://github.com/poornikabonam/home-surveillance-project/blob/main/README.md#opencv)
+   * [Software Requirements](
 ## Technological Overview
 ### Python
 
@@ -30,7 +31,7 @@ IoT Device - Raspberry Pi 3
 
 The project's IoT device is based on Raspberry Pi 3, a single-board computer with Bluetooth and wireless LAN connectivity. It interfaces with a PIR sensor, USB web camera, and a power supply, running on the Raspbian OS.
 
-Software Requirements
+### Software Requirements
 
     Raspbian OS:
         The Debian-based operating system is the primary OS for Raspberry Pi devices.
@@ -50,7 +51,7 @@ Software Requirements
     Dropbox:
         A cloud storage service for file synchronization and sharing.
 
-Hardware Requirements
+### Hardware Requirements
 
     Raspberry Pi 3 (Model B, 1 GB RAM):
         A powerful single-board computer with quad-core 64-bit CPU, Wi-Fi, and Bluetooth capabilities.
