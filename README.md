@@ -11,6 +11,8 @@ The proposed solution entails connecting a Raspberry Pi with a Pi camera and est
    * [OpenCV](https://github.com/poornikabonam/home-surveillance-project/blob/main/README.md#opencv)
    * [Software Requirements](https://github.com/poornikabonam/home-surveillance-project/blob/main/README.md#software-requirements)
    * [Hardware Requirements](https://github.com/poornikabonam/home-surveillance-project/blob/main/README.md#hardware-requirements)
+* [Flow Chart]![image](https://github.com/poornikabonam/home-surveillance-project/assets/97566249/6f307d05-141e-4ea0-bb22-e08dbbfbc960)
+
 ## Technological Overview
 ### Python
 
@@ -65,5 +67,6 @@ The project's IoT device is based on Raspberry Pi 3, a single-board computer wit
 
     Micro SD Card (8 GB):
         A removable flash memory card designed for storing various file types, including images, videos, and software.
+
 
 
