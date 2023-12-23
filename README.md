@@ -70,5 +70,7 @@ The project's IoT device is based on Raspberry Pi 3, a single-board computer wit
 
 ## Flow Chart
 ![image](https://github.com/poornikabonam/home-surveillance-project/assets/97566249/2d47ec46-38e1-4e9b-bec3-a0edfdc2dd94)
+![image](https://github.com/poornikabonam/home-surveillance-project/assets/97566249/4ee6a6e1-d255-456c-b98c-5654cd69b7ad)
+
 
 
